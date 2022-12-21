@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+.abel-font {
+    font-family: 'Abel', sans-serif;
+}
+
+.navbar-nav>li {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+a {
+    text-decoration: none;
+    color: grey;
+}
